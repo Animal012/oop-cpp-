@@ -1,0 +1,6 @@
+/Users/semec/variant-50-user-146/lab6/cmake-build-debug/CMakeFiles/lab6.dir
+/Users/semec/variant-50-user-146/lab6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/semec/variant-50-user-146/lab6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/semec/variant-50-user-146/lab6/cmake-build-debug/polynom/CMakeFiles/polynom.dir
+/Users/semec/variant-50-user-146/lab6/cmake-build-debug/polynom/CMakeFiles/edit_cache.dir
+/Users/semec/variant-50-user-146/lab6/cmake-build-debug/polynom/CMakeFiles/rebuild_cache.dir
