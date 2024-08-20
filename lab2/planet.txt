@@ -1,0 +1,4 @@
+3
+Alpha 123 0 15
+Mercury 4878 0 0
+Earth 12774 1 1
