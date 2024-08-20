@@ -1,0 +1,3 @@
+/Users/semec/variant-50-user-146/lab3/fraction/cmake-build-debug/CMakeFiles/fraction.dir
+/Users/semec/variant-50-user-146/lab3/fraction/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/semec/variant-50-user-146/lab3/fraction/cmake-build-debug/CMakeFiles/rebuild_cache.dir
