@@ -1,0 +1,9 @@
+/Users/semec/variant-50-user-146/lab1/cmake-build-debug/CMakeFiles/lab1.dir
+/Users/semec/variant-50-user-146/lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/semec/variant-50-user-146/lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/semec/variant-50-user-146/lab1/cmake-build-debug/mymath/CMakeFiles/mymath.dir
+/Users/semec/variant-50-user-146/lab1/cmake-build-debug/mymath/CMakeFiles/edit_cache.dir
+/Users/semec/variant-50-user-146/lab1/cmake-build-debug/mymath/CMakeFiles/rebuild_cache.dir
+/Users/semec/variant-50-user-146/lab1/cmake-build-debug/sort/CMakeFiles/sort.dir
+/Users/semec/variant-50-user-146/lab1/cmake-build-debug/sort/CMakeFiles/edit_cache.dir
+/Users/semec/variant-50-user-146/lab1/cmake-build-debug/sort/CMakeFiles/rebuild_cache.dir

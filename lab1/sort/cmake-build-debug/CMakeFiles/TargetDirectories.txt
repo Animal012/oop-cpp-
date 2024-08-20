@@ -1,0 +1,3 @@
+/Users/semec/variant-50-user-146/lab1/sort/cmake-build-debug/CMakeFiles/sort.dir
+/Users/semec/variant-50-user-146/lab1/sort/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/semec/variant-50-user-146/lab1/sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
