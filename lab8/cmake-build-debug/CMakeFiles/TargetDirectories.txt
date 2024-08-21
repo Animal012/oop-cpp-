@@ -1,0 +1,6 @@
+/Users/semec/variant-50-user-146/lab8/cmake-build-debug/CMakeFiles/lab8.dir
+/Users/semec/variant-50-user-146/lab8/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/semec/variant-50-user-146/lab8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/semec/variant-50-user-146/lab8/cmake-build-debug/tasks/CMakeFiles/tasks.dir
+/Users/semec/variant-50-user-146/lab8/cmake-build-debug/tasks/CMakeFiles/edit_cache.dir
+/Users/semec/variant-50-user-146/lab8/cmake-build-debug/tasks/CMakeFiles/rebuild_cache.dir
